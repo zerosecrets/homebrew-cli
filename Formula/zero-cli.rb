@@ -1,9 +1,9 @@
 class ZeroCli < Formula
   desc "A command line tool for Zero Secrets Manager"
   homepage "https://github.com/zerosecrets/cli"
-  url "https://github.com/zerosecrets/cli/releases/download/v2.4.2/zero-cli-2.4.2-x86_64-apple-darwin.tar.gz"
-  sha256 "c868f2842a4f1ee21bcf0c480e11c6d4378010e81cf266e32337c6d1ab366663"
-  version "2.4.2"
+  url "https://github.com/zerosecrets/cli/releases/download/v2.5.0/zero-cli-2.5.0-x86_64-apple-darwin.tar.gz"
+  sha256 "5153bc591bd21d4df638cbf1d80f44674c00723cff98e6afd6f5442dc351e470"
+  version "2.5.0"
 
   def install
     bin.install "zero-cli"
